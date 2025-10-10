@@ -13,7 +13,7 @@
  
  *Using ox_lib for:*
  * remove and load ipls via zones [required] otherwise your game gonna crash due to high amount of rooms + portals at same location
- * elevators [optinal]
+ * elevators [optional]
 
 <img width="1911" height="1037" alt="Screenshot_2" src="https://github.com/user-attachments/assets/76695933-9ecb-4794-af57-b2ba59bf80d7" />
 <img width="1909" height="1039" alt="Screenshot_1" src="https://github.com/user-attachments/assets/ccb5050c-e25a-4d5d-bf9b-7d944fc8525b" />
