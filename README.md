@@ -1,4 +1,10 @@
-**Wiwang hotel**
+**Wiwang hotel (README For snipe-motel System)**
+
+- Make sure the MLO is called wiwang_hotel
+- Make sure the MLO starts before snipe-motel script
+- Do not follow any information mentioned below. It is part of the original asset and has been edited by me to work with snipe-motel system
+
+**Wiwang hotel (Original Readme)**
 
  20 floors 
 
