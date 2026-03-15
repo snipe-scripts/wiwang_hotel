@@ -6,19 +6,6 @@ author 'Floky'
 
 this_is_a_map 'yes'
 
-dependencies {
-  'ox_lib',
-}
-
-shared_scripts {
-  '@ox_lib/init.lua',
-}
-
-client_scripts {
-  'ipl.lua',
-  'elevators.lua',
-}
-
 lua54 'yes'
 
 
